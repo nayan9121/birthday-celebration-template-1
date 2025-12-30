@@ -12,7 +12,9 @@ function MessageCard({ isActive }) {
   const curtainRightRef = useRef(null);
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
-
+  const recipientName = "Siriiiii";
+  const senderName = "Mehul";
+  ;
   const message = `[Siriiiii],
 YOU TURN 21 NOWWW!!!!!!😍😍 YAYYYYYYYYYY, Happy birthday to the love of my lifee🌏❤️🫀, i wish you alll the happiness and success you deserve in lifee (you deserve everythingg btw). I am soo proud of youu for everythingg you've achieved in lifee and I am alsoo soo postive and pretty sure for everything you are gonna achive in lifee. Today is your dayy, so you shall enjoy it to the fullestt and I shall be by your side little princess. 💖🛐 I hope God blesses you with a greatt health and abundant money and a happyy lifee🤞🙏 Your eyes are soo beautiful that I can literally admire them thoughout my lifetime, your voicee soothes me so much, you are literally my nightingale, your smile does so manyy wonders that even if there is darkness you smile and brighten my life and the darkness vanishes. You are the most important person in my lifeee and i will do everything for you to make you happy in life 🥹🫂 You are a blessing for me and I shall keep you safe forever and keep you closee. You are the bestt thing that has happened in my life and soo grateful to God for sending you into my lifee. I'm sorry for hurting you at times and I'm trying my best baby. 
 
